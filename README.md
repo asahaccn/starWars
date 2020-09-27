@@ -1,7 +1,9 @@
 # starWars
 
 1.install the repository
+
 2.npm install
+
 3.npm run
 
 
